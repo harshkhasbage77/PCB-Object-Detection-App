@@ -5,3 +5,5 @@ streamlit
 numpy
 pillow
 inference-sdk
+libgl1-mesa-glx
+libglib2.0-0
