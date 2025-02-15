@@ -73,7 +73,7 @@ nvidia-ml-py==12.570.86
 onnxruntime==1.19.2
 openai==1.63.0
 opencv-contrib-python==4.10.0.84
-opencv-python==4.10.0.84
+opencv-python-headless
 packaging==24.2
 paho-mqtt==1.6.1
 pandas==2.2.3
