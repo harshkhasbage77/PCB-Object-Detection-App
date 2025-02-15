@@ -1,3 +1,7 @@
 inference
 supervision
 opencv-python
+streamlit
+numpy
+pillow
+inference-sdk
